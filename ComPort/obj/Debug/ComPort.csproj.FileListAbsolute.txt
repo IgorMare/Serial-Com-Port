@@ -1,0 +1,10 @@
+C:\Users\Igor\Desktop\ComPort\ComPort\ComPort\bin\Debug\ComPort.exe.config
+C:\Users\Igor\Desktop\ComPort\ComPort\ComPort\bin\Debug\ComPort.exe
+C:\Users\Igor\Desktop\ComPort\ComPort\ComPort\bin\Debug\ComPort.pdb
+C:\Users\Igor\Desktop\ComPort\ComPort\ComPort\obj\Debug\ComPort.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\ComPort\ComPort\ComPort\obj\Debug\ComPort.Form1.resources
+C:\Users\Igor\Desktop\ComPort\ComPort\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+C:\Users\Igor\Desktop\ComPort\ComPort\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\ComPort\ComPort\ComPort\obj\Debug\ComPort.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\ComPort\ComPort\ComPort\obj\Debug\ComPort.exe
+C:\Users\Igor\Desktop\ComPort\ComPort\ComPort\obj\Debug\ComPort.pdb
